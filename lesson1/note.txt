@@ -20,3 +20,24 @@ Apply & Ok, restart PyCharm
 python模块的执行方法
 python ***.py
 import ***
+--------------------
+virtualenv
+1.多个python运行环境
+2.每个环境维护自己的包版本
+3.相同模块的不同版本
+
+virtualenv Dev
+activate   激活环境
+deactivate 退出环境
+
+查看安装了哪些包:
+pip freeze
+
+安装virtualenv:
+pip install virtualenv
+
+pip可自动检测依赖并安装依赖
+
+创建虚拟环境:
+创建测试环境:
+virturalenv Test
