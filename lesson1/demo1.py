@@ -15,8 +15,13 @@ def hello():
 if __name__ == '__main__':
     a = 10
     b = '''
-hello
-hello
-hello
-hello'''
+    hello
+    hello
+    hello
+    hello
+    '''
+    c, d, e = 10, 'hello', True
     print b
+    print c, d, e
+    c, d = d, c
+    print c, d, e
