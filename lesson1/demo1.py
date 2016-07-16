@@ -27,4 +27,7 @@ if __name__ == '__main__':
     # print c, d, e
     a = 10
     b = 3
-    print a*1.0/b, a%b, a//b, a**b
+    # print a*1.0/b, a%b, a//b, a**b
+    y = a > 3 and b < 4
+    z = a > 13 or b <2
+    print y, z
