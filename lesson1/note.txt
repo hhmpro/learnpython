@@ -1,0 +1,17 @@
+pycharm 脚本模板功能
+File->Settings->Editor->File and Code Template
+Files Tab
+Python Script
+
+type in content:
+#!/usr/bin/python
+# encoding:utf-8
+
+"""
+@author  : hhming
+@contact : hhmpro@qq.com
+@file    : demo2.py
+@time    : 16/7/16 下午3:02
+"""
+
+Apply & Ok, restart PyCharm
