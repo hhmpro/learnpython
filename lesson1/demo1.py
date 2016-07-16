@@ -13,4 +13,10 @@ def hello():
     print 'I am in demo1'
 
 if __name__ == '__main__':
-    hello()
+    a = 10
+    b = '''
+hello
+hello
+hello
+hello'''
+    print b
