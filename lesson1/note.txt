@@ -65,3 +65,13 @@ not
 ipython notebook
 this command is deprecated, use jupyter notebook instead.
 这个命令后,会打开http://localhost:8888/tree
+
+测试打印文件内容
+f = open('/Users/shatter/CP/calc.txt')
+for line in f:
+    print line
+f.close()
+--------------------
+git config --list
+--------------------
+
