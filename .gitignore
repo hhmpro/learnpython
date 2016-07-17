@@ -90,3 +90,4 @@ ENV/
 
 #pycharm project settings
 .idea
+*.ipynb
