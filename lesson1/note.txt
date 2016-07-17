@@ -60,3 +60,8 @@ and
 or
 not
 不支持&&、||
+--------------------
+启动notebook命令
+ipython notebook
+this command is deprecated, use jupyter notebook instead.
+这个命令后,会打开http://localhost:8888/tree
