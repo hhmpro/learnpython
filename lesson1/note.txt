@@ -87,3 +87,8 @@ ipcluster nbextension enable
 To disable it again:
 
 ipcluster nbextension disable
+--------------------
+Mac下Python的沙盒环境Virtualenv
+安装： sudo easy_install virtualenv
+建立新的运行环境：virtualenv <env-name>
+进入相应的独立环境：source <env-path>/bin/activate env-name
